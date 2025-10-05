@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@andz79" target="_blank">
-    <img src="https://img.shields.io/badge/Valorant%20GFX-andz-1f6feb?style=for-the-badge&logo=youtube&logoColor=white" alt="Valorant VFX" />
+    <img src="https://img.shields.io/badge/Valorant%20VFX-andz-1f6feb?style=for-the-badge&logo=youtube&logoColor=white" alt="Valorant VFX" />
   </a>
 </p>
 
