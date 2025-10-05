@@ -55,10 +55,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@andz79" target="_blank">
-    <img src="https://img.shields.io/badge/Valorant%20GFX-andz-1f6feb?style=for-the-badge&logo=youtube&logoColor=white" alt="Valorant GFX" />
+    <img src="https://img.shields.io/badge/Valorant%20GFX-andz-1f6feb?style=for-the-badge&logo=youtube&logoColor=white" alt="Valorant VFX" />
   </a>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&center=true&vCenter=true&width=800&height=55&lines=From+Game+Visuals+To+Clean+Graphic+Design&color=FFFFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&center=true&vCenter=true&width=800&height=55&lines=From+Game+Visuals+To+Clean+Visual+Design&color=FFFFFF" alt="Typing SVG" />
 </h1>
